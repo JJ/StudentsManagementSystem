@@ -1,3 +1,5 @@
+# Students Management System
+
 ![](sms.png)
 
 ![License](http://img.shields.io/badge/license-GPLv3-blue.svg)
@@ -9,7 +11,7 @@
 [**S**tudent **M**anagement **S**ystem](http://butterflydevs.github.io/StudentsManagementSystem/) en un agilizador de procesos para centros docentes diseñado para mejorar la recolección, gestión y análisis de datos académicos en tiempo real, potenciando y haciendo más fácil la toma de decisiones, análisis de estado y detección de problemas en centros educativos.
 
 
-####Arquitectura del sistema
+## Arquitectura del sistema
 
 El diseño de la aplicación está basado en microservicios, distribuyendo su funcionamiento en distintos nodos que de forma separada cumplen una función concreta e independiente del resto pero contribuyendo a la lógica total de la aplicación.
 
@@ -26,16 +28,16 @@ Aunque SMS está pensado para correr en **Google App Engine** es fácilmente ada
 *SMS es un proyecto Open Source que espera estar en producción muy pronto para un conjunto de centros con unas necesidades muy características que son en las que se está enfocando el desarrollo. A pesar de esto la idea es construirlo tan modularizable que sea fácilmente adaptable, extensible y rediseñable para cualquier necesidad específica. *
 
 
-####¿Cómo usar SMS en un centro?
+## ¿Cómo usar SMS en un centro?
 
 Para lanzar la aplicación es necesario crear una cuenta en GAE , habilitar algunos servicios y subir el código, en breve publicaremos guías que ayuden a conocer el procedimiento en detalle, mientras tanto y para cualquier duda, es fácil contactar con nosotros escribiendo a *butteflydevsmail@gmail.com* .
 
-####¿Cómo contribuir al proyecto?
+## ¿Cómo contribuir al proyecto?
 
 Si quieres colaborar con el proyecto tan solo tienes que hacer un **fork** del repositorio, realizar cualquier mejora o modificación del código y proponer un **pull-request**.
 Pero antes de nada te aconsejamos que leas el fichero **CONTRIBUTING.md** donde especificamos mejor los detalles.
 
-######Stack Tech
+## Tech Stack
 
 Estas son las principales tecnologías que usamos, por el momento, para el desarrollo:
 
